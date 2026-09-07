@@ -9,7 +9,7 @@ I'm interested in **robotics, embedded systems, computer vision and software dev
 
 ###  Currently working with
 
-`Python` · `C/C++`  · `ESP32` · `Arduino` · `OpenCV` · `Git`
+Python · C/C++ · ESP32 · Arduino · OpenCV · Git
 
 ###  Some things I've been building
 
@@ -18,5 +18,7 @@ I'm interested in **robotics, embedded systems, computer vision and software dev
 
 **Let's connect**
 
-[LinkedIn](www.linkedin.com/in/pedro-henrique-mizukawa-0524943b8) · [Email](mizukaph@gmail.com)
+[LinkedIn](www.linkedin.com/in/pedro-henrique-mizukawa-0524943b8) 
+
+[Email](mizukaph@gmail.com)
 
