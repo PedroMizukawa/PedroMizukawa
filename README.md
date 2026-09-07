@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Pedro Henrique👋
 
-<!--
-**PedroMizukawa/PedroMizukawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering UNIFEI
 
-Here are some ideas to get you started:
+⚙️ Industrial Automation Technician
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in **robotics, embedded systems, computer vision and software development**.
+
+
+###  Currently working with
+
+`Python` · `C/C++`  · `ESP32` · `Arduino` · `OpenCV` · `Git`
+
+###  Some things I've been building
+
+*  **Interactive Robotics** — computer vision, emotion recognition and human-robot interaction
+* **Automation** — electronics, control and microcontrollers
+
+**Let's connect**
+
+[LinkedIn](www.linkedin.com/in/pedro-henrique-mizukawa-0524943b8) · [Email](mizukaph@gmail.com)
+
