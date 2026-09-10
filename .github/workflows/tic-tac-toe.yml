@@ -1,0 +1,35 @@
+name: Tic Tac Toe Bot
+
+on:
+  issues:
+    types: [opened]
+  issue_comment:
+    types: [created]
+
+jobs:
+  play:
+    if: >
+      contains(github.event.issue.labels.*.name, 'tic-tac-toe') &&
+      github.event.issue.pull_request == null &&
+      (github.event_name == 'issues' || github.event.comment.user.login != 'github-actions[bot]')
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run bot
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          EVENT_NAME: ${{ github.event_name }}
+        run: python .github/scripts/tic_tac_toe_bot.py
