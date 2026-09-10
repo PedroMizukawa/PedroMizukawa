@@ -64,7 +64,7 @@
 
 <div align="center">
 
-[![Tic Tac Toe](https://img.shields.io/badge/▶️_Play_Tic--Tac--Toe-00ADB5?style=for-the-badge)](https://github.com/PedroMizukawa/PedroMizukawa/issues/new?title=tic-tac-toe)
+[![Tic Tac Toe](https://img.shields.io/badge/▶️_Play_Tic--Tac--Toe-00ADB5?style=for-the-badge)](https://github.com/PedroMizukawa/PedroMizukawa/issues/new?title=Tic-Tac-Toe&labels=tic-tac-toe)
 
 </div>
 
