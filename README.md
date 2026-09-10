@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 About me
 
-- 🎓 Computer Engineering student @ UNIFEI
+- 🎓 Computer Engineering student UNIFEI
 - ⚙️ Industrial Automation Technician
 - 🤖 Passionate about **robotics, embedded systems, computer vision and software development**
 - 🌱 Currently building interactive robots that recognize emotions and interact with humans
@@ -45,45 +45,15 @@
 
 </div>
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PedroMizukawa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMizukawa&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroMizukawa&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PedroMizukawa&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
----
-
-### 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/PedroMizukawa/PedroMizukawa/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
 </div>
 
-> Essa animação é gerada automaticamente pelo GitHub Actions a partir do seu histórico de contribuições (veja instruções de setup no final deste arquivo).
-
 ---
 
-### 🚀 Featured Projects
-
-<div align="center">
-<a href="https://github.com/PedroMizukawa/REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMizukawa&repo=REPO-1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/PedroMizukawa/REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroMizukawa&repo=REPO-2&theme=tokyonight&hide_border=true" />
-</a>
-</div>
+###  Featured Projects
 
 - 🤖 **Interactive Robotics** — computer vision, emotion recognition and human-robot interaction
 - ⚙️ **Automation** — electronics, control systems and microcontrollers
